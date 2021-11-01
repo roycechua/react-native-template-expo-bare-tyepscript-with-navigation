@@ -1,0 +1,8 @@
+{
+  "name": "react-native-template-expo-bare-tyepscript-with-navigation",
+  "version": "1.0.0",
+  "description": "React Native Template",
+  "repository": "git@github.com:roycechua23/react-native-template-expo-bare-tyepscript-with-navigation.git",
+  "author": "Royce Chua <roycechua.work@gmail.com>",
+  "license": "MIT"
+}
