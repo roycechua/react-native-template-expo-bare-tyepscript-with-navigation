@@ -20,7 +20,8 @@ const MainNavigationContainer: FunctionComponent<Props> = (props: Props) => {
 					name="Home"
 					component={HomeScreen}
 					options={{
-						title: "Home",
+						title: "ProjectName",
+						// headerShown: false,
 					}}
 				/>
 			</Stack.Navigator>
