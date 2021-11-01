@@ -11,8 +11,7 @@ Notable dependency versions:
 # How to use this template
 Simply run the command
 
-``` bash
-npx react-native init appName --template https://github.com/roycechua23/react-native-template-expo-bare-tyepscript-with-navigation.git```
+``` npx react-native init appName --template https://github.com/roycechua23/react-native-template-expo-bare-tyepscript-with-navigation.git```
 
 # Notes
 This template is flexible and can be extended to have more features in the template.
